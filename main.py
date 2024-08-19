@@ -5,7 +5,7 @@ def main():
     converter = CurrencyConverter(API_KEY)
     
     while True:
-        print("\n-- Calculadora de Divisas --")
+        print("\n-- Mi Calculadora de Divisas --")
         print("1. Convertir divisas")
         print("2. Salir")
 
